@@ -16,7 +16,7 @@ However, I discovered in the following summer that inorganic catalysts, while ex
 Therefore, I started investigating more benign but efficient catalysts which resulted in high yields with high stereoselectivity: enzymes.
 
 ## Developing Interest in Computational Approaches
-During my second summer, I did a research project involving computational simulations and modelling of 8-oxoguanine within dsDNA using PLUMED-patched GROMACS to model the energy landscape of geometric rotations involving the base using metadynamics. Ever since then, I appreciated the power of computers, especially HPC hardware like GPUs. Ever since then, I have enjoyed utilizing computational approaches to solving life science questions. 
+During my second summer, I did a research project involving computational simulations and modelling of 8-oxoguanine within dsDNA using PLUMED-patched GROMACS to model the energy landscape of geometric rotations involving the base using metadynamics. Ever since then, I appreciated the power of computers, especially HPC hardware like GPUs. Ever since then, I have enjoyed utilizing computational approaches to solving life science questions, especially for protein design. 
 
 ## The Modern Day
 To this day, I am endlessly fascinated by interdisciplinary approaches to science. I believe today's issues are more complex than ever, and using every field of knowledge to our advantage is how we will move forward.
