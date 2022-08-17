@@ -22,4 +22,4 @@ During my second summer, I did a research project involving computational simula
 To this day, I am endlessly fascinated by interdisciplinary approaches to science. I believe today's issues are more complex than ever, and using every field of knowledge to our advantage is how we will move forward.
 
 ## Other Interests
-I am currently using my knowledge of C++ and Unreal Engine to create [pmUE] (https://github.com/ISDementyev/pmUE), a molecular visualization plugin for Unreal Engine 4, as well as an RPG video game using Gaea for landscape design.  
+I am currently using my knowledge of C++ and Unreal Engine to create [pmUE](https://github.com/ISDementyev/pmUE), a molecular visualization plugin for Unreal Engine 4, as well as an RPG video game using Gaea for landscape design.  
